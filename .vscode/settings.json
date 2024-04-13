@@ -1,0 +1,11 @@
+{
+    "workbench.editor.customLabels.patterns": {
+        "src/app/**": "${dirname} (${filename})",
+        "src/actions/**": "${filename} (action)",
+        "src/components/**": "${filename} [${dirname}] (component)",
+        "src/config/**": "${filename} [${dirname}] (config)",
+        "src/schemas/**": "${filename} (schema)",
+        "src/lib/**": "${filename} (lib)",
+        "src/server/api/routers/**": "${filename} (router)"
+    }
+}
